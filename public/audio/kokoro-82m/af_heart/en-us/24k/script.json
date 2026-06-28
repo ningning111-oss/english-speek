@@ -1,0 +1,787 @@
+{
+  "ttsModel": "Kokoro-82M",
+  "language": "American English",
+  "voice": "af_heart",
+  "sampleRateHz": 24000,
+  "output": {
+    "wavMaster": "master/*.wav",
+    "normal": [
+      "normal/*.mp3",
+      "normal/*.aac"
+    ],
+    "slow": [
+      "slow/*.mp3",
+      "slow/*.aac"
+    ]
+  },
+  "speed": {
+    "normal": 1,
+    "slow": 0.72
+  },
+  "items": [
+    {
+      "id": "tts-9c173647",
+      "text": "A pencil, please."
+    },
+    {
+      "id": "tts-f568088e",
+      "text": "An eraser, please."
+    },
+    {
+      "id": "tts-704c327d",
+      "text": "Apples are yummy."
+    },
+    {
+      "id": "tts-83563169",
+      "text": "Are you a new student?"
+    },
+    {
+      "id": "tts-495858c9",
+      "text": "Are you finished?"
+    },
+    {
+      "id": "tts-bfb8d3e4",
+      "text": "Are you full?"
+    },
+    {
+      "id": "tts-e731e32e",
+      "text": "Are you happy today?"
+    },
+    {
+      "id": "tts-afd9a809",
+      "text": "Are you here?"
+    },
+    {
+      "id": "tts-4d151aa8",
+      "text": "Be careful, please."
+    },
+    {
+      "id": "tts-18ee873f",
+      "text": "Breakfast is good."
+    },
+    {
+      "id": "tts-b788ed4c",
+      "text": "Can I have my pencil?"
+    },
+    {
+      "id": "tts-f95b3205",
+      "text": "Can I play?"
+    },
+    {
+      "id": "tts-a9b15fad",
+      "text": "Can you draw this?"
+    },
+    {
+      "id": "tts-78a7d9c2",
+      "text": "Can you help me?"
+    },
+    {
+      "id": "tts-1e40b75d",
+      "text": "Can you introduce yourself?"
+    },
+    {
+      "id": "tts-afc8675f",
+      "text": "Can you jump?"
+    },
+    {
+      "id": "tts-2c1b123b",
+      "text": "Can you say it again?"
+    },
+    {
+      "id": "tts-6cbaf37e",
+      "text": "Can you sing?"
+    },
+    {
+      "id": "tts-d60c8bb5",
+      "text": "Come here, puppy."
+    },
+    {
+      "id": "tts-1ff3a496",
+      "text": "Do you have a pencil?"
+    },
+    {
+      "id": "tts-e0834495",
+      "text": "Do you have your schoolbag?"
+    },
+    {
+      "id": "tts-20ae9178",
+      "text": "Do you like apples?"
+    },
+    {
+      "id": "tts-e7ae5a70",
+      "text": "Do you like pears?"
+    },
+    {
+      "id": "tts-33211f9c",
+      "text": "Do you need a pencil?"
+    },
+    {
+      "id": "tts-89d33230",
+      "text": "Do you see the rain?"
+    },
+    {
+      "id": "tts-46f43d9a",
+      "text": "Good morning, lemon!"
+    },
+    {
+      "id": "tts-4a5b08c3",
+      "text": "Good morning!"
+    },
+    {
+      "id": "tts-575b1d3a",
+      "text": "Good morning."
+    },
+    {
+      "id": "tts-ef910703",
+      "text": "Goodbye!"
+    },
+    {
+      "id": "tts-c83e4199",
+      "text": "Happy birthday!"
+    },
+    {
+      "id": "tts-31457053",
+      "text": "Have a nice day."
+    },
+    {
+      "id": "tts-3a5b975f",
+      "text": "Hello, I am lemon."
+    },
+    {
+      "id": "tts-1565f4c6",
+      "text": "Her name is Amy."
+    },
+    {
+      "id": "tts-43b63262",
+      "text": "Here is an apple."
+    },
+    {
+      "id": "tts-84163a99",
+      "text": "Here is your birthday gift."
+    },
+    {
+      "id": "tts-e4e7ea2f",
+      "text": "Here is your milk."
+    },
+    {
+      "id": "tts-3c150d63",
+      "text": "Here is your water."
+    },
+    {
+      "id": "tts-41201124",
+      "text": "Here you are."
+    },
+    {
+      "id": "tts-73b95561",
+      "text": "How are you?"
+    },
+    {
+      "id": "tts-aab048fa",
+      "text": "How can you show the way?"
+    },
+    {
+      "id": "tts-055979cd",
+      "text": "How do apples taste?"
+    },
+    {
+      "id": "tts-b8437650",
+      "text": "How do you feel about your family?"
+    },
+    {
+      "id": "tts-df6709c9",
+      "text": "How do you feel outside?"
+    },
+    {
+      "id": "tts-35d9793b",
+      "text": "How do you feel today?"
+    },
+    {
+      "id": "tts-e53294d0",
+      "text": "How do you feel?"
+    },
+    {
+      "id": "tts-01e5f395",
+      "text": "How does it taste?"
+    },
+    {
+      "id": "tts-65e1e084",
+      "text": "How else can you reply?"
+    },
+    {
+      "id": "tts-b2a84534",
+      "text": "How is your breakfast?"
+    },
+    {
+      "id": "tts-3d06cfac",
+      "text": "How much is it?"
+    },
+    {
+      "id": "tts-4d62bdfa",
+      "text": "How old are you?"
+    },
+    {
+      "id": "tts-74faad65",
+      "text": "How's the weather?"
+    },
+    {
+      "id": "tts-047d7b89",
+      "text": "I can dance."
+    },
+    {
+      "id": "tts-806cd724",
+      "text": "I can jump."
+    },
+    {
+      "id": "tts-d53f05bf",
+      "text": "I can run."
+    },
+    {
+      "id": "tts-dc8277a9",
+      "text": "I can sing."
+    },
+    {
+      "id": "tts-d29b42be",
+      "text": "I can speak English."
+    },
+    {
+      "id": "tts-ee3b69c1",
+      "text": "I can't draw."
+    },
+    {
+      "id": "tts-8ac2989e",
+      "text": "I can't open it."
+    },
+    {
+      "id": "tts-44cf5580",
+      "text": "I don't feel well."
+    },
+    {
+      "id": "tts-ab2155da",
+      "text": "I don't like pears."
+    },
+    {
+      "id": "tts-70459c3c",
+      "text": "I have a book."
+    },
+    {
+      "id": "tts-c38f4896",
+      "text": "I like apples."
+    },
+    {
+      "id": "tts-db246a11",
+      "text": "I like blue."
+    },
+    {
+      "id": "tts-5a5f60b8",
+      "text": "I like dogs."
+    },
+    {
+      "id": "tts-f59fbfb8",
+      "text": "I love my family."
+    },
+    {
+      "id": "tts-1792dc97",
+      "text": "I need help."
+    },
+    {
+      "id": "tts-6e7260e6",
+      "text": "I need the toilet."
+    },
+    {
+      "id": "tts-b0534bee",
+      "text": "I see a tree."
+    },
+    {
+      "id": "tts-8e962875",
+      "text": "I want an apple."
+    },
+    {
+      "id": "tts-84bcfb56",
+      "text": "I want some bread."
+    },
+    {
+      "id": "tts-8aad04a2",
+      "text": "I'll try again."
+    },
+    {
+      "id": "tts-d6d20bf7",
+      "text": "I'm fine, thank you."
+    },
+    {
+      "id": "tts-53cf60ae",
+      "text": "I'm fine."
+    },
+    {
+      "id": "tts-5ded0eec",
+      "text": "I’m fine."
+    },
+    {
+      "id": "tts-350b7b14",
+      "text": "I'm here."
+    },
+    {
+      "id": "tts-86454b70",
+      "text": "I'm seven years old."
+    },
+    {
+      "id": "tts-b3d2e4fd",
+      "text": "I'm sorry."
+    },
+    {
+      "id": "tts-93d18d9d",
+      "text": "Is this your bag?"
+    },
+    {
+      "id": "tts-3c1be397",
+      "text": "Is this your eraser?"
+    },
+    {
+      "id": "tts-17a7915e",
+      "text": "Is your lunch good?"
+    },
+    {
+      "id": "tts-1359181b",
+      "text": "It is cute."
+    },
+    {
+      "id": "tts-d308e2b3",
+      "text": "It is red."
+    },
+    {
+      "id": "tts-8f1cfcaa",
+      "text": "It is yellow."
+    },
+    {
+      "id": "tts-b014b80a",
+      "text": "It's cold."
+    },
+    {
+      "id": "tts-5b4f50cd",
+      "text": "It's eight o'clock."
+    },
+    {
+      "id": "tts-208eccb8",
+      "text": "It's Monday."
+    },
+    {
+      "id": "tts-65981ca0",
+      "text": "It's okay."
+    },
+    {
+      "id": "tts-c9dfafd6",
+      "text": "It's raining."
+    },
+    {
+      "id": "tts-6cd9fe35",
+      "text": "It's sunny."
+    },
+    {
+      "id": "tts-767b0170",
+      "text": "It's your friend's birthday. What do you say?"
+    },
+    {
+      "id": "tts-3d4e455d",
+      "text": "Lemon?"
+    },
+    {
+      "id": "tts-0e432003",
+      "text": "Let's be friends!"
+    },
+    {
+      "id": "tts-53d67d7f",
+      "text": "Let's play ball."
+    },
+    {
+      "id": "tts-b899d4ed",
+      "text": "Let's play!"
+    },
+    {
+      "id": "tts-37c48d31",
+      "text": "Let's take a walk."
+    },
+    {
+      "id": "tts-d764918b",
+      "text": "Listen to me."
+    },
+    {
+      "id": "tts-9812501b",
+      "text": "Look at the bird."
+    },
+    {
+      "id": "tts-661f1110",
+      "text": "May I drink?"
+    },
+    {
+      "id": "tts-1f62c626",
+      "text": "May I go out?"
+    },
+    {
+      "id": "tts-2a17cf15",
+      "text": "May I play with you?"
+    },
+    {
+      "id": "tts-bc1b15c9",
+      "text": "Milk or water?"
+    },
+    {
+      "id": "tts-08cb755e",
+      "text": "No, it is not."
+    },
+    {
+      "id": "tts-e15beb07",
+      "text": "One more time, please."
+    },
+    {
+      "id": "tts-c54ce2fa",
+      "text": "Please help me."
+    },
+    {
+      "id": "tts-0fc483c1",
+      "text": "School is over. What do you say?"
+    },
+    {
+      "id": "tts-bb2d95c7",
+      "text": "See you on Tuesday."
+    },
+    {
+      "id": "tts-557fef14",
+      "text": "See you tomorrow."
+    },
+    {
+      "id": "tts-e0de8a68",
+      "text": "Thank you for helping."
+    },
+    {
+      "id": "tts-08e8c54b",
+      "text": "Thank you, lemon."
+    },
+    {
+      "id": "tts-dba3eaa4",
+      "text": "Thank you, teacher."
+    },
+    {
+      "id": "tts-fd18b61b",
+      "text": "Thank you!"
+    },
+    {
+      "id": "tts-fa18b162",
+      "text": "Thank you."
+    },
+    {
+      "id": "tts-41df2462",
+      "text": "That's me."
+    },
+    {
+      "id": "tts-25b2f2a9",
+      "text": "The clock says eight."
+    },
+    {
+      "id": "tts-6e3c2dcf",
+      "text": "This is for you."
+    },
+    {
+      "id": "tts-fb92e0e1",
+      "text": "This is my bag."
+    },
+    {
+      "id": "tts-b3982454",
+      "text": "This is my dad."
+    },
+    {
+      "id": "tts-c83cc1ed",
+      "text": "This is my friend."
+    },
+    {
+      "id": "tts-fb09b6f6",
+      "text": "This is my mom."
+    },
+    {
+      "id": "tts-7bbee81a",
+      "text": "This way, please."
+    },
+    {
+      "id": "tts-c53a3077",
+      "text": "Time for class."
+    },
+    {
+      "id": "tts-cba21973",
+      "text": "Today is the first school day."
+    },
+    {
+      "id": "tts-335b9244",
+      "text": "Water, please."
+    },
+    {
+      "id": "tts-7400c14d",
+      "text": "We play together."
+    },
+    {
+      "id": "tts-85a77e4d",
+      "text": "What animal do you like?"
+    },
+    {
+      "id": "tts-0cf26fdf",
+      "text": "What can you ask your friend?"
+    },
+    {
+      "id": "tts-ec45cb40",
+      "text": "What can you do?"
+    },
+    {
+      "id": "tts-ba71dae5",
+      "text": "What can you proudly say?"
+    },
+    {
+      "id": "tts-8cfae9c6",
+      "text": "What can you say to a new friend?"
+    },
+    {
+      "id": "tts-72aaca44",
+      "text": "What can you say to the puppy?"
+    },
+    {
+      "id": "tts-527e2d68",
+      "text": "What can you say to your teacher?"
+    },
+    {
+      "id": "tts-d3fb6098",
+      "text": "What can you say when you need help?"
+    },
+    {
+      "id": "tts-80be223e",
+      "text": "What color do you like?"
+    },
+    {
+      "id": "tts-394f13ee",
+      "text": "What color is it?"
+    },
+    {
+      "id": "tts-3c137139",
+      "text": "What day is it?"
+    },
+    {
+      "id": "tts-d612ea42",
+      "text": "What do you ask about the price?"
+    },
+    {
+      "id": "tts-c3ddc683",
+      "text": "What do you do together?"
+    },
+    {
+      "id": "tts-7fa32e6a",
+      "text": "What do you need now?"
+    },
+    {
+      "id": "tts-5e1ed7b6",
+      "text": "What do you need?"
+    },
+    {
+      "id": "tts-eeb8541b",
+      "text": "What do you say before singing?"
+    },
+    {
+      "id": "tts-e076c78a",
+      "text": "What do you say when giving a gift?"
+    },
+    {
+      "id": "tts-ac993bff",
+      "text": "What do you say when paying?"
+    },
+    {
+      "id": "tts-873cb30d",
+      "text": "What do you see?"
+    },
+    {
+      "id": "tts-26d75aaa",
+      "text": "What do you think of it?"
+    },
+    {
+      "id": "tts-4d5d885a",
+      "text": "What do you want for breakfast?"
+    },
+    {
+      "id": "tts-da918d06",
+      "text": "What do you want to ask?"
+    },
+    {
+      "id": "tts-2a54ec71",
+      "text": "What do you want to buy?"
+    },
+    {
+      "id": "tts-5a4e7e46",
+      "text": "What do you want to do?"
+    },
+    {
+      "id": "tts-56347258",
+      "text": "What do you want to find?"
+    },
+    {
+      "id": "tts-db3618e0",
+      "text": "What do you want to know?"
+    },
+    {
+      "id": "tts-647b6d51",
+      "text": "What do you want your friend to see?"
+    },
+    {
+      "id": "tts-560d2ec3",
+      "text": "What else can you do?"
+    },
+    {
+      "id": "tts-f8fef4a1",
+      "text": "What fruit do you like?"
+    },
+    {
+      "id": "tts-439403a5",
+      "text": "What happens at eight?"
+    },
+    {
+      "id": "tts-79ebd702",
+      "text": "What hurts?"
+    },
+    {
+      "id": "tts-ae5ea6a2",
+      "text": "What is in your bag?"
+    },
+    {
+      "id": "tts-a2d80a96",
+      "text": "What is the problem?"
+    },
+    {
+      "id": "tts-cf23bd70",
+      "text": "What kind reminder can you give?"
+    },
+    {
+      "id": "tts-0199f08d",
+      "text": "What shall we do in the park?"
+    },
+    {
+      "id": "tts-1ec7f074",
+      "text": "What shall we play?"
+    },
+    {
+      "id": "tts-1f73ce42",
+      "text": "What time is it?"
+    },
+    {
+      "id": "tts-c0dc7d58",
+      "text": "What would you like to drink?"
+    },
+    {
+      "id": "tts-e81a443d",
+      "text": "What would you like?"
+    },
+    {
+      "id": "tts-02527a86",
+      "text": "What's her name?"
+    },
+    {
+      "id": "tts-bb8f95b4",
+      "text": "What's your name?"
+    },
+    {
+      "id": "tts-ce06e7c4",
+      "text": "When will you meet again?"
+    },
+    {
+      "id": "tts-9c663a13",
+      "text": "Where is my class?"
+    },
+    {
+      "id": "tts-1d759042",
+      "text": "Which color do you want?"
+    },
+    {
+      "id": "tts-0dfba935",
+      "text": "Who is he?"
+    },
+    {
+      "id": "tts-7a89aa93",
+      "text": "Who is lemon?"
+    },
+    {
+      "id": "tts-a3735fac",
+      "text": "Who is she?"
+    },
+    {
+      "id": "tts-e73ed03e",
+      "text": "Will you try one more time?"
+    },
+    {
+      "id": "tts-d312a1ac",
+      "text": "Would you like some milk?"
+    },
+    {
+      "id": "tts-102d0a4f",
+      "text": "Yellow, please."
+    },
+    {
+      "id": "tts-25dcd1d4",
+      "text": "Yes, come on!"
+    },
+    {
+      "id": "tts-cd313fae",
+      "text": "Yes, I am!"
+    },
+    {
+      "id": "tts-c83137cf",
+      "text": "Yes, I am."
+    },
+    {
+      "id": "tts-7e228af6",
+      "text": "Yes, I do."
+    },
+    {
+      "id": "tts-b2154cab",
+      "text": "Yes, it is."
+    },
+    {
+      "id": "tts-e739b8c4",
+      "text": "Yes, please."
+    },
+    {
+      "id": "tts-5c8b3fac",
+      "text": "Yes, teacher."
+    },
+    {
+      "id": "tts-643c077b",
+      "text": "You bump into your friend."
+    },
+    {
+      "id": "tts-215aecfe",
+      "text": "You can use mine."
+    },
+    {
+      "id": "tts-bc330a55",
+      "text": "You may go now."
+    },
+    {
+      "id": "tts-11e9ed12",
+      "text": "You're welcome."
+    },
+    {
+      "id": "tts-8911fec5",
+      "text": "Your classroom is over there."
+    },
+    {
+      "id": "tts-ebfc4325",
+      "text": "Your friend gives you a pencil."
+    },
+    {
+      "id": "tts-f8054ddd",
+      "text": "Your friend helped you. What do you say?"
+    },
+    {
+      "id": "tts-83b0923f",
+      "text": "Your friend says sorry."
+    },
+    {
+      "id": "tts-fc292b19",
+      "text": "Your friend says thank you."
+    },
+    {
+      "id": "tts-c57376df",
+      "text": "Yummy!"
+    }
+  ]
+}
