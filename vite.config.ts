@@ -8,6 +8,7 @@ const httpsCert = 'certs/dev-cert.pem';
 const useHttps = process.env.VITE_DEV_HTTPS !== 'false';
 
 export default defineConfig({
+  base: process.env.GITHUB_PAGES === 'true' ? '/english-speek/' : '/',
   plugins: [react()],
   server: {
     host: '0.0.0.0',

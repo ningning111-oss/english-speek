@@ -10,7 +10,8 @@ type AudioContextConstructor = typeof AudioContext;
 type WindowWithWebkitAudio = Window & { webkitAudioContext?: AudioContextConstructor };
 const TURNS_PER_GROUP = 3;
 const TOTAL_TURNS = 9;
-const TTS_AUDIO_BASE = '/audio/kokoro-82m/af_heart/en-us/24k';
+const assetUrl = (path: string): string => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`;
+const TTS_AUDIO_BASE = assetUrl('/audio/kokoro-82m/af_heart/en-us/24k');
 
 const audioKey = (text: string): string => {
   let hash = 0x811c9dc5;
@@ -155,7 +156,7 @@ const Icon = ({ name, size = 22 }: { name: 'back' | 'sound' | 'mic' | 'arrow' | 
 };
 
 function SceneIllustration({ scene }: { scene: Scene }) {
-  if (scene.id === 'school') return <img className="school-art" src="/assets/lemon-school-hero-v2.png" alt="小女孩 lemon 早上到学校和老师打招呼" />;
+  if (scene.id === 'school') return <img className="school-art" src={assetUrl('/assets/lemon-school-hero-v2.png')} alt="小女孩 lemon 早上到学校和老师打招呼" />;
   return <div className={`school-art scene-art scene-art-${scene.id}`} role="img" aria-label={`${scene.title}场景插画`}><span>{scene.art}</span><b>{scene.title}</b><small>{scene.description}</small></div>;
 }
 
